@@ -1,3 +1,5 @@
+This repo is being deprecated. Checkout the latest version of the adapter: https://github.com/islandmagic/bb-link
+
 # BLE to Bluetooth Classic adapter
 
 Older devices, like the TH-D74 radio only support Bluetooth Classic. iOS devices only support Bluetooth Low Energey (BLE). As such, you can't pair those devices together. This code provides a way to interface a device that exposes a serial profile over Bluetooth Classic, to an iOS device via BLE. Its main purpose is to use the TNC adapter built in the radio with a program that uses AX.25 packet like RadioMail or APRS.fi.
